@@ -29,7 +29,7 @@ kaggle: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge
 -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1006&color=C3C4BA&center=true&repeat=false&random=false&width=435&lines=welcome+to+my+page!+im+emleda." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1006&color=C3C4BA&center=true&repeat=false&random=false&width=435&lines=welcome+to+my+page!+im+emily." alt="Typing SVG" /></a>
 <br>
 <pre>
     💼 BSC @ USyd • Data Analytics 
