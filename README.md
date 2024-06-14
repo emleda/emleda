@@ -42,7 +42,7 @@ kaggle: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge
   <a target="_blank"href="https://www.kaggle.com/emleda"><img src="https://img.shields.io/badge/kaggle-d8e2dc"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-9d8189" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pandas-BFD6D9" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jupyter-f4acb7" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgresql-ffe5d9" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rstudio-ffe5d9" />&nbsp;&nbsp;&nbsp;
