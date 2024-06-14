@@ -47,6 +47,7 @@ kaggle: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge
   <img src="https://img.shields.io/badge/postgresql-ffe5d9" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rstudio-ffe5d9" />&nbsp;&nbsp;&nbsp;
 </p>
+<br>
 <img src="https://i.giphy.com/ES4Vcv8zWfIt2.webp" height="200" />
 <br><br><br>
 
