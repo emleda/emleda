@@ -33,13 +33,14 @@ kaggle: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge
 <br>
 <pre>
     💼 BSC @ USyd • Data Analytics 
-    🎮 Music • Code • Illustration
+    🎮 Cooking • Code • Embroidery • Illustration
     🐾 Sukini 🐈‍⬛ • Teddicus 🐈
 </pre>
 <br>
 <p align="center">
   <a target="_blank"href="https://au.linkedin.com/in/emily-lewis-dando-043581143"><img src="https://img.shields.io/badge/linkedin-ffcad4"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.kaggle.com/emleda"><img src="https://img.shields.io/badge/kaggle-d8e2dc"/></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://public.tableau.com/app/profile/emily.lewis2785/vizzes"><img src="https://img.shields.io/badge/tableau-bdd8e1"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-BFD6D9" />&nbsp;&nbsp;&nbsp;
